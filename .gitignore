@@ -1,0 +1,4 @@
+similarity.pkl
+*.csv
+*.txt
+.ipynb_checkpoints
